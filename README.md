@@ -1,6 +1,9 @@
 
 ## Available Scripts
 
+[![DeepScan grade](https://deepscan.io/api/teams/10459/projects/13310/branches/220018/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)](https://deepscan.io/dashboard#view=project&tid=10459&pid=13310&bid=220018)
+
+
 In the project directory, you can run:
 
 ### `cd server nodemon server.js`
